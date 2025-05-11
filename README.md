@@ -29,3 +29,9 @@ This project was built as a portfolio piece to demonstrate:
 
 ## 🔎 Preview 
 > [Project Preview](./assets/screenshot.png)
+
+
+## 🔗 Live Preview
+
+You can view the deployed project here:  
+👉 [https://tlou-portfolio.vercel.app](https://tlou-portfolio.vercel.app)
